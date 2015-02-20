@@ -1,5 +1,5 @@
 //MatrixTask.java
-package chapter9;
+package peiying;
 
 /**
  * 对两个矩阵对两个矩阵进行乘法运算。
