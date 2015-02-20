@@ -1,5 +1,5 @@
 //NetS.java
-package chapter9;
+package peiying;
 import java.rmi.*;
 import java.rmi.server.*;
 import java.rmi.registry.LocateRegistry;
